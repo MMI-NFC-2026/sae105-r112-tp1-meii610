@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : KHANKOUIAN
+- prénom : Mathéo
+- URL Netlify : https://sae105-r112-tp1.netlify.app/
 
 # Travail
 
